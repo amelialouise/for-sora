@@ -1,6 +1,9 @@
 # For SORA
 Various analyses and what not, mostly cool/useful visualizations, for the [State of Oregon Research Academy](https://oregonresearch.org/)
 
+## Shiny App host links
+[State of Oregon - Population of Analysts by Agency](https://q47q0h-amelia-vargas.shinyapps.io/shiny-state-analyst-totals/)
+
 ## Project structure
 
 Folder legend:
